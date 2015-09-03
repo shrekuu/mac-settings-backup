@@ -1,0 +1,8 @@
+[core]
+	fileMode = false
+	excludesfile = /Users/bond/.gitignore
+[user]
+	email = ^_^@gmail.com
+	name = ^_^
+[push]
+	default = simple
